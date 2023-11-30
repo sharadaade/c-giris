@@ -13,7 +13,7 @@ int main(void)
 	sub = num1 - num2;
 	multi = num1 * num2;
 	div = num1 / num2;
-	// 
+ 
 	rem = (int)num1 % (int)num2;
 	
 	printf("Addition is : %f\n",add);
