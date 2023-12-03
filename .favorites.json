@@ -1,19 +1,38 @@
 [
     {
         "type": "File",
-        "name": "c:\\Users\\aades\\OneDrive\\Desktop\\c\\ternary-check-alpha-digit-special-char.c",
+        "name": "c:\\Users\\aades\\OneDrive\\Desktop\\c\\swap-two-num-without-third-variable.c",
         "parent_id": null,
-        "fsPath": "c:\\Users\\aades\\OneDrive\\Desktop\\c\\ternary-check-alpha-digit-special-char.c",
+        "fsPath": "c:\\Users\\aades\\OneDrive\\Desktop\\c\\swap-two-num-without-third-variable.c",
         "workspaceRoot": null,
         "workspacePath": null,
-        "id": "5pbEQBTVSZA7mzP2"
+        "id": "EyGxP9JkM1rIcugf"
     },
     {
-        "type": "Group",
-        "name": "Conceptual;",
+        "type": "File",
+        "name": "c:\\Users\\aades\\OneDrive\\Desktop\\c\\display-reverse-num.c",
         "parent_id": null,
+        "fsPath": "c:\\Users\\aades\\OneDrive\\Desktop\\c\\display-reverse-num.c",
         "workspaceRoot": null,
         "workspacePath": null,
-        "id": "lWsIJFXHGUj7eM6O"
+        "id": "caJ3irYQWlyoCLv1"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\aades\\OneDrive\\Desktop\\c\\palindrom-number.c",
+        "parent_id": null,
+        "fsPath": "c:\\Users\\aades\\OneDrive\\Desktop\\c\\palindrom-number.c",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "iwraHS7xG2t4dym3"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\aades\\OneDrive\\Desktop\\c\\swap-two-num-with-third-variable.c",
+        "parent_id": null,
+        "fsPath": "c:\\Users\\aades\\OneDrive\\Desktop\\c\\swap-two-num-with-third-variable.c",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "hbzZBKNpYG6jQ91V"
     }
 ]
