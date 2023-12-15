@@ -1,38 +1,27 @@
 [
     {
-        "type": "File",
-        "name": "c:\\Users\\aades\\OneDrive\\Desktop\\c\\swap-two-num-without-third-variable.c",
+        "type": "Group",
+        "name": "My-Fev",
         "parent_id": null,
-        "fsPath": "c:\\Users\\aades\\OneDrive\\Desktop\\c\\swap-two-num-without-third-variable.c",
         "workspaceRoot": null,
         "workspacePath": null,
-        "id": "EyGxP9JkM1rIcugf"
+        "id": "gQGBxDZXrKylof9i"
+    },
+    {
+        "type": "Group",
+        "name": "Notes",
+        "parent_id": null,
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "AY54HCS3ReKZb7Pr"
     },
     {
         "type": "File",
-        "name": "c:\\Users\\aades\\OneDrive\\Desktop\\c\\display-reverse-num.c",
-        "parent_id": null,
-        "fsPath": "c:\\Users\\aades\\OneDrive\\Desktop\\c\\display-reverse-num.c",
+        "name": "c:\\Users\\aades\\Desktop\\c-giris\\c-bro-practice.c",
+        "parent_id": "gQGBxDZXrKylof9i",
+        "fsPath": "c:\\Users\\aades\\Desktop\\c-giris\\c-bro-practice.c",
         "workspaceRoot": null,
         "workspacePath": null,
-        "id": "caJ3irYQWlyoCLv1"
-    },
-    {
-        "type": "File",
-        "name": "c:\\Users\\aades\\OneDrive\\Desktop\\c\\palindrom-number.c",
-        "parent_id": null,
-        "fsPath": "c:\\Users\\aades\\OneDrive\\Desktop\\c\\palindrom-number.c",
-        "workspaceRoot": null,
-        "workspacePath": null,
-        "id": "iwraHS7xG2t4dym3"
-    },
-    {
-        "type": "File",
-        "name": "c:\\Users\\aades\\OneDrive\\Desktop\\c\\swap-two-num-with-third-variable.c",
-        "parent_id": null,
-        "fsPath": "c:\\Users\\aades\\OneDrive\\Desktop\\c\\swap-two-num-with-third-variable.c",
-        "workspaceRoot": null,
-        "workspacePath": null,
-        "id": "hbzZBKNpYG6jQ91V"
+        "id": "1BT6gRNxnsIp0FJX"
     }
 ]
